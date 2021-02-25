@@ -28,6 +28,7 @@ function App() {
                   <img
                     src={logo}
                     className="masthead-brand aos-init aos-animate"
+                    alt="algorithmus"
                     style={{ width: "100px" }}
                     data-aos-delay={100}
                     data-aos="fade-up"
