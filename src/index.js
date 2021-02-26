@@ -6,6 +6,7 @@ import "./css/font-awesome/css/all.min.css?ver=1.2.0";
 import "./css/bootstrap.min.css?ver=1.2.0";
 import "./css/main.css?ver=1.2.0";
 import "./js/main.js";
+// import "./particle/particle.min.js";
 // import "./css/";
 ReactDOM.render(
   <React.StrictMode>
